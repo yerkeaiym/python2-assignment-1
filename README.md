@@ -14,6 +14,10 @@ or from source
 request - https://pypi.org/project/requests/
 jwt - https://pyjwt.readthedocs.io/en/stable/
 flask - https://flask.palletsprojects.com/en/2.0.x/
+```or from source
+```bash
+django - https://docs.djangoproject.com/en/4.0/
+psycopg2 - https://www.psycopg.org/docs/
 ```
 ## Usage
 ```bash
@@ -32,6 +36,9 @@ urlpatterns = [
 ```
 ## Examples
 Outputs will be like these:
+![image](https://user-images.githubusercontent.com/77783049/150147873-1af45bef-0679-4930-8546-1d03aa7c5ac2.png)
+![image](https://user-images.githubusercontent.com/77783049/150147936-c4dbaafe-9561-4051-bd0d-38f3e48dbeaa.png)
+
 ```bash
 
 ```

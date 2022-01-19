@@ -11,11 +11,6 @@ pip install jwt
 ```
 or from source
 ```bash
-request - https://pypi.org/project/requests/
-jwt - https://pyjwt.readthedocs.io/en/stable/
-flask - https://flask.palletsprojects.com/en/2.0.x/
-```or from source
-```bash
 django - https://docs.djangoproject.com/en/4.0/
 psycopg2 - https://www.psycopg.org/docs/
 ```

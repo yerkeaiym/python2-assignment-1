@@ -1,0 +1,4 @@
+Assignment 1 - ToDo App
+
+
+In this assignment, we worked with the django framework. First, we created a login page and a registration page. After that, we created a ToDo page where you can add tasks and remove them. And worked with DB.
